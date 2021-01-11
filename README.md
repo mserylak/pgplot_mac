@@ -12,3 +12,5 @@ In order to build PGPLOT successfully you need to follow most of the recommendat
 original PGPLOT page (https://sites.astro.caltech.edu/~tjp/pgplot) and have all the 
 standard libraries installed using Homebrew (e.g. GNU gcc, libpng etc.). There is also
 plenty of help out there for compilation steps etc.
+
+Special thanks to Philippa Hartley for help solving this!
